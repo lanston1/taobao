@@ -1,0 +1,5 @@
+CHROME_DEBUG_PORT = 9999
+MONGO_URL = '127.0.0.1'
+MONGO_DB = 'taobao'
+MONGO_TABLE = '手机'
+KEYWORD = '手机'
